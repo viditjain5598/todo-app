@@ -1,24 +1,7 @@
-# README
+# TODO App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A basic webapp made on Ruby on Rails. This project aims to create a todo app that:
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Implements Basic CRUD functionality on tasks.
+- TODO: Schedule a deadline for tasks.
+- TODO: Assign a priority to each task.
